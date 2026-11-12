@@ -17,7 +17,7 @@ This is an educational project focused on learning the fundamentals of modern la
 
 ## 📚 Learning Roadmap
 
-- [ ] Python Foundations
+- [x] Python Foundations
 - [ ] Mathematics for AI
 - [ ] PyTorch Fundamentals
 - [ ] Text Processing and Tokenization
